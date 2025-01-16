@@ -123,6 +123,8 @@ You can find this [example](_examples/log/main.go) and many others in the [examp
 Contribute
 ----------
 
+wenqiuli@tencent.com
+
 [Contributions](https://github.com/go-git/go-git/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) are more than welcome, if you are interested please take a look to
 our [Contributing Guidelines](CONTRIBUTING.md).
 
