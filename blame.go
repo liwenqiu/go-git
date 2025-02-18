@@ -5,7 +5,6 @@ import (
 	"container/heap"
 	"errors"
 	"fmt"
-	"io"
 	"strconv"
 	"time"
 	"unicode/utf8"
